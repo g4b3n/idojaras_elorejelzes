@@ -1,0 +1,87 @@
+body{
+	background-color:  rgb(12, 12, 43);
+}
+
+#container{
+	background-color:  rgb(78, 85, 53);
+
+}
+
+#header{
+	background-color: rgb(12, 12, 43);
+	color: white;
+	font-size: 300%;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+}
+
+/* #content{
+
+} */
+
+#menu {
+	background-color:rgb(12, 12, 43);
+}
+
+#center{
+	background-color: rgb(56, 241, 195);
+}
+
+
+#footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+.menu{
+	list-style-type: none;
+	border: 0;
+	margin: 0;
+	padding: 10px 0;
+}
+
+.menu li{
+ 	border-bottom: 10px solid white;
+ 	cursor: pointer;
+}
+
+.menu li a{
+	display: block;
+	padding: 2px;
+	text-decoration: none;
+	color: black;
+	background-color: white ;
+}
+
+.menu li a:hover{
+	color: white;
+	background-color: #2e7bb8;
+}
+
+.r{
+	text-align: right;
+}
+.l{
+	text-align: left;
+}
+.c{
+	text-align: center;
+}
+.j{
+	text-align: justify;
+}
+
+#chartContainer{
+	 height: 400px; 
+	 max-width: 920px; 
+	 margin: 0px auto;
+}
+
+
+.navbar{
+background-color: rgb(78, 85, 53);
+
+}
